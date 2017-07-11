@@ -1,0 +1,27 @@
+.card {
+  width: 20%;
+  height: 300px;
+  margin: 2.5%;
+  padding-top: 15%;
+  float: left;
+  background-color: white;
+  text-align: center;
+  color: black;
+  background-size: contain;
+  background-repeat:no-repeat;
+}
+
+.image-cards {
+  width: 286px;
+  height: 191px;
+}
+
+#flag {
+  position: absolute;
+  top: 0;
+  right: 0;
+
+}
+
+/*notes*/
+/*bring in .card, #spain, #italy, #aruba, and #chile from previous travel site*/
